@@ -1,0 +1,1 @@
+# muiltiple-azure-VM-creation-by-terraform-template
